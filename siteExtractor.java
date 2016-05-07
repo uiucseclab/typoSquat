@@ -28,9 +28,19 @@ public class siteExtractor{
 			String line = null;
 			while((line=in.readLine())!=null){
 				line = line.toLowerCase();//some lines use improper case in the file, fix this
+				if(line.startsWith("***"))break;//reached end of data
 				line = cutToWebAddr(line);
 				if(line.startsWith("http://")) line = line.substring(7);//remove protocols
 				else if(line.startsWith("https://")) line = line.substring(8);
+				int x = line.indexOf("/");
+				if(x != -1) line = line.substring(0,x);
+				int tldStart = line.lastIndexOf(".");
+				if(tldStart >= 1){
+					x = line.lastIndexOf(".",tldStart-1);
+					x = x==-1?0:x;
+					System.out.println(x + ", " + tldStart);
+					line = line.substring(x+1,tldStart);
+				}
 				if(line.equals("null") || line.equals("none") || line.equals("na")) continue;
 				if(!line.equals("")){
 					out.write(line+"\n");
