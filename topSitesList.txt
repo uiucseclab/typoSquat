@@ -95,4 +95,7 @@ flipkart.com
 microsoftonline.com
 whatsapp.com
 nytimes.com
-chase.com
+doubleclickbygoogle.com
+9to5google.com
+thinkwithgoogle.com
+withgoogle.com
