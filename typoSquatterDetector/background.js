@@ -5,11 +5,6 @@ var list = [];
 
 
 
-
-function renderStatus(statusText) {
-  // document.getElementById('status').textContent = statusText;
-}
-
 function checkUrl(addr) {
   // var addr = extractAddr(url);
   var array = [];

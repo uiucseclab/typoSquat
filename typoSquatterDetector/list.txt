@@ -1,48 +1,34 @@
 google
-youtrube
+youtube
 facebook
 baidu
 yahoo
 amazon
 wikipedia
-qq
-google
 twitter
 live
 taobao
 msn
 sina
-yahoo
-google
 linkedin
 weibo
 bing
 yandex
-vk
 hao123
 instagram
 ebay
-google
-amazon
 mail
 360
 tmall
-google
 pinterest
-google
 reddit
-google
-t
 netflix
-google
 sohu
 paypal
 microsoft
 wordpress
-google
 blogspot
 tumblr
-ok
 onclickads
 gmw
 imgur
@@ -50,45 +36,32 @@ stackoverflow
 aliexpress
 xvideos
 apple
-google
 fc2
 imdb
-google
-amazon
 ask
-google
-google
 office
 alibaba
 rakuten
 tianya
 pornhub
-google
 github
 diply
 craigslist
 soso
-go
 xinhuanet
 nicovideo
 pixnet
-amazon
 chinadaily
 bongacams
 googleusercontent
 outbrain
-amazon
 blogger
 haosou
 cnn
-jd
 kat
-google
-google
 Naver
 dropbox
 coccoc
-360
 xhamster
 adobe
 flipkart
@@ -110,7 +83,6 @@ suntrust
 hsbc
 chase
 schwabbank
-53
 regions
 mtb
 northerntrust
@@ -118,7 +90,6 @@ unionbank
 ally
 citizensbank
 bmoharris
-capitalone
 key
 santander
 discover
@@ -132,15 +103,12 @@ zionsbank
 firstrepublic
 americanexpress
 ubs
-db
 mynycb
 svb
 ankoncit
 firstniagara
 peoples
-americanexpress
 cnb
-citizensbank
 signatureny
 etrade
 eastwestbank
@@ -157,7 +125,6 @@ firstmerit
 websteronline
 commercebank
 bankunited
-bnymellon
 umpquabank
 hancockbank
 prosperitybankusa
@@ -166,7 +133,6 @@ pacificwesternbank
 gecapitalbank
 myinvestorsbank
 tcfbank
-td
 iberiabank
 fhb
 texascapitalbank
@@ -228,7 +194,6 @@ mercantilcb
 bankatfirst
 renasantbank
 bbcnbank
-wellsfargo
 berkshirebank
 popularcommunitybank
 legacytexas
@@ -269,8 +234,6 @@ bankofnc
 amerisbank
 wsfsbank
 cabelas
-bankwithunited
-santander
 watrust
 sabadellbank
 ridgewoodbank
@@ -464,11 +427,9 @@ ankofhamptonroads
 exchangebank
 gfnational
 oldsecond
-centralbank
 bankofmarin
 eldoradosavingsbank
 mbvt
-bnymellon
 bankatcommerce
 wilsonbank
 bealbank
@@ -482,7 +443,6 @@ midsouthbank
 therightbank
 kleinbank
 heritageoaksbank
-etrade
 hinsdalebank
 gatecitybank
 citizensfb
@@ -500,7 +460,6 @@ psbt
 stearnsbank
 tompkinstrust
 fscb
-usaa
 bankofthesierra
 akimafed
 fidelitybank
@@ -680,7 +639,6 @@ capstarbank
 starionfinancial
 nicoletbank
 yourcnb
-nbbank
 hawthornbank
 choosethechief
 florencesavings
@@ -766,7 +724,6 @@ entegrabank
 yes
 investarbank
 sssb
-ibc
 norwaysavingsbank
 royalbusinessbankusa
 savingsbank
@@ -1031,7 +988,6 @@ cnbohio
 mhtny
 mycenturybank
 reenfieldsavings
-communitybank
 fnbforyou
 fsbbank
 farmersbankks
@@ -1058,14 +1014,12 @@ berkbank
 helmbankusa
 unitedsecuritybank
 modernbank
-communitybank
 focusbank
 thecitizensbank
 malvernfederal
 firstgeneralbank
 riverbankandtrust
 asbnow
-bankeasy
 iconbanktx
 peoplessouth
 ypinnbank
@@ -1091,7 +1045,6 @@ kishbank
 sbical
 pinnbanktx
 cbtcnet
-communitybank
 ellowstonebank
 myfsbonline
 ctcbonline
@@ -1228,14 +1181,12 @@ fnbgillette
 americanbanktrust
 greatmidwestbank
 hnbbank
-libertybank
 omestateonline
 avidbank
 bankonheritage
 farmersstatebank
 blackhawkbank
 cfgcommunitybank
-fb
 farmersnb
 bankofwashington
 plumasbank
@@ -1306,7 +1257,6 @@ presidential
 relybank
 skowhegansavings
 centralbankhouston
-ibc
 mandmbank
 bankonresource
 firstmetro
@@ -1341,7 +1291,6 @@ bankoflabor
 fnbcbt
 htbna
 texasgulfbank
-fmb
 webdcb
 lislebank
 huntingtonfederal
@@ -1350,7 +1299,6 @@ soundcb
 mybanktx
 bcbonline
 tollesonwealth
-bessemertrust
 stmartinbank
 geddesfederal
 vermillionbank
@@ -1388,7 +1336,6 @@ concordiabank
 unitedbankofmichigan
 deerwoodbank
 1stsecuritybank
-communitybank
 prudentialsavingsbank
 firstar-bank
 waterfordbankna
@@ -1425,7 +1372,6 @@ bankucb
 clintonsavings
 csbandrews
 mysunshinebank
-ibc
 monumentbank
 tonehambank
 bridgewatersavings
@@ -1442,7 +1388,6 @@ mnbbank
 providencebank
 artisansbank
 putnambank
-thefarmersbank
 fnbbastrop
 southcoastbank
 dairystatebank
@@ -1480,7 +1425,6 @@ ffbtn
 firstadvantagebanking
 ffbkc
 roundtopstatebank
-citizens-bank
 highlandbanks
 fnbmt
 rbt
@@ -1553,7 +1497,6 @@ pointbank
 wwarthurstatebank
 mansfieldbankonline
 riverviewbankpa
-btc
 deltabank
 firstbankmo
 bankersbankusa
@@ -1602,7 +1545,6 @@ cvnb
 hardincountybank
 foundationbank
 northeastgabank
-fcbbanks
 dellsbank
 bsnb
 richwoodbank
@@ -1682,7 +1624,6 @@ wolverinebank
 visionbank
 bnkwest
 fbtco
-centralbank
 securityfinancialbank
 greenbeltbank
 coastalcommerce
@@ -1700,7 +1641,6 @@ sgfc
 avbpgh
 continentalbank
 bankofcentralflorida
-communitynationalbank
 hometowncoop
 nationalcapitalbank
 texasbank
@@ -1716,7 +1656,6 @@ northwesternbank
 bankmidsouth
 sfcbank
 tcbssb
-carolinabank
 commercestatebank
 blackridgebank
 decorahbank
@@ -1725,14 +1664,12 @@ firstcentury
 firstmnbank
 truxtontrust
 rosellesavings
-firstbank
 bankpbt
 fieldandmain
 southeasternbank
 fsbathens
 broadwayfederalbank
 bankofsullivan
-thecitizensbank
 trailwest
 firstfedevansville
 reedombankva
@@ -1748,7 +1685,6 @@ anchornetbank
 enbfl
 bankofbridger
 mtmckinleybank
-thecitizensbank
 pegasusbankdallas
 midstatesbank
 salemcoop
@@ -1760,7 +1696,6 @@ hnbbanks
 soybank
 phoenixfed
 drummondbank
-whitakerbank
 thebankofbennington
 fidelitybankwf
 sosb-ia
@@ -1808,11 +1743,9 @@ geobanking
 randolphsavings
 stlouisbank
 firstgreenbank
-firstnationalbanks
 cnbsomerset
 giantbank
 citizensbanktrust
-fsnb
 abettebank
 unitedfidelity
 citizensmn
@@ -1861,11 +1794,9 @@ cbankandtrust
 fsblouise
 nbdcbank
 cbsouth
-fnbt
 fsb4me
 seawaybank
 signaturebankonline
-midwestbank
 freedombankonline
 uzernebank
 optimabank
@@ -2017,7 +1948,6 @@ flcb
 couleebank
 snbenid
 firststatefinancial
-pvbank
 fcbweb
 washingtoncountybank
 bankofbartlett
@@ -2115,7 +2045,6 @@ grandsavingsbank
 northviewbank
 lcbt
 athensfederal
-iowastatebank
 centralbankbranson
 dartbank
 ucbnd
@@ -2149,7 +2078,6 @@ thsb
 rdwo
 trusttexasbank
 elizfed
-db
 cnbwv
 cnbalbion
 sthenrybank
@@ -2234,7 +2162,6 @@ classicbanking
 firstoptionbank
 fmbms
 traditionsal
-cbbank
 columbusfirstbank
 oconeestatebank
 unitedbankofunion
@@ -2338,7 +2265,6 @@ firstfedindiana
 asbtx
 edisonnationalbank
 cboprf
-5pointsbank
 fnbhamilton
 amgnational
 mylnb
@@ -2364,7 +2290,6 @@ patriot-bank
 fnb-bank
 bankofluxemburg
 banktennessee
-firsttexasbank
 bradfordbank
 fnb-ne
 unibankusa
@@ -2472,7 +2397,6 @@ unionbanknc
 advantagebanks
 firststatebanksw
 kingstonnationalbank
-central-bank
 nordstrom
 libertybk
 sugarriverbank
@@ -2521,7 +2445,6 @@ txbank
 psbgroup
 fnbjasper
 fnb-windmill
-firstbank
 ftsbbank
 platinumbanktexas
 nhcbanking
@@ -2529,7 +2452,6 @@ myfirstliberty
 surreybank
 nxtbank
 cityfirstbank
-firstbusiness
 myaffinitybank
 cbkamericus
 bankwithasb
@@ -2558,7 +2480,6 @@ pinnaclebankonline
 grandbankoftexas
 fun-bank
 banknorthshore
-vbank
 efirstfederal
  c o m m s t b k 
 firststatebk
@@ -2602,7 +2523,6 @@ marion-bank
 deltabk
 fnbanksuffield
 fnbgriffin
-americannationalbank
 citizensbankvp
 rockwoodbank
 homebanksb
@@ -2638,11 +2558,9 @@ primemeridianbank
 enterprisebankomaha
 bankofbirmingham
 firstfederalwisconsin
-tbogc
 nmbank
 thebankofnewglarus
 efirsttrust
-cnbbank
 homesteadbank
 cornerstonebanknj
 cullmansavingsbank
@@ -2658,7 +2576,6 @@ fnnderidder
 pvnb
 com
 firsttrustbankil
-aa
 rollinghillsbank
 granitefallsbank
 prospectfederal
@@ -2709,7 +2626,6 @@ ometownbanc
 bofm
 fsb-wv
 firstfederalbankofohio
-us
 csbnow
 bankoflafayette
 fstsb
@@ -2747,7 +2663,6 @@ huntingtonstatebank
 centurybankonline
 firstbankofdalton
 homefedgi
-firstcb
 ohnwardbank
 shelbybank
 jpstonecb
@@ -2838,7 +2753,6 @@ alamosastatebank
 rsbiowa
 pinnaclebanc
 bankoflakemills
-sterlingbank
 firstnewmexicobank
 southernindependentbank
 greenwichfirst
@@ -2942,7 +2856,6 @@ bankofcommercefl
 fnbweatherford
 isfedkc
 pnb-ms
-washingtonsavings
 mnbsf
 pcsbbank
 ajsmithbank
@@ -2973,7 +2886,6 @@ firstbankblueearth
 cfnbmanhattan
 myfsb
 bankofmillbrook
-fcnb
 nbnyc
 bankofbrenham
 cherokeestatebank
@@ -2987,7 +2899,6 @@ fnboneida
 mineolacb
 fnbmn
 merchantsbk
-firstnationalbanks
 1sttrustbankinc
 mysentrybank
 northwesternmutual
@@ -3011,7 +2922,6 @@ firstandpeoplesbank
 sycamorebank
 bankatfnb
 cnbt
-cbank
 fmbanktrust
 fnbtaylorville
 colombobank
@@ -3058,7 +2968,6 @@ peoplesbk
 mutualwave
 homeloansavingsbank
 newportfederalbank
-premierbanks
 mysecbank
 fmnetbank
 esbna
@@ -3110,7 +3019,6 @@ myhonorbank
 arinebankandtrust
 cnbanktx
 ssbnebraska
-enterprisebank
 nevadacb
 kearnycountybank
 cdbky
@@ -3122,12 +3030,10 @@ creditonebank
 e-firstnationalbank
 sbtcparis
 westernbankonline
-tnbank
 putnamcountystatebank
 woodfordstatebank
 southerncommunitybank
 pjsb
-commercial-bank
 fnbgiddings
 fnbna
 smackoverbank
@@ -3184,7 +3090,6 @@ blccb
 bankofwiggins
 eastern-savings
 vabanktr
-bankcsb
 wwcnbguymon
 bridgecitybank
 sundancestatebank
@@ -3259,7 +3164,6 @@ oakviewbank
 sharonbank
 tcbankmidwest
 damariscottabank
-centralbank
 snbsd
 commencementbank
 goldenvalleybank
@@ -3298,7 +3202,6 @@ upstatebank
 cypressbanktx
 shelllakestatebank
 fnbromney
-citizensfirstbank
 fsbbanks
 adamscountybank
 fnbamboy
@@ -3344,7 +3247,6 @@ thecommercialbanksc
 citizensbankmo
 copiahbank
 hnbank
-firststatebank
 trustbank
 bremenbank
 fsbnv
@@ -3368,7 +3270,6 @@ chesapeakebank
 midstatecb
 ourlocalbank
 gdwbank
-com
 platinumbankmn
 wyoming-bank
 brattbank
@@ -3377,7 +3278,6 @@ farmerssavingsbank
 ranscapitalbank
 obannonbank
 rnbonline
-communityfirstbank
 lwcbank
 soundbanking
 wyomingbank
@@ -3389,7 +3289,6 @@ timberwoodbanks
 mrvbanks
 bankvista
 wellsriversavings
-ffmbank
 streatorhome
 fandmstbk
 newburgbank
@@ -3433,7 +3332,6 @@ tcbank
 entralbankmoberly
 marionstatebank
 somervillenationalbank
-citizensbank
 sandhillsstate
 kearneytrust
 fsbwesty
@@ -3473,7 +3371,6 @@ bankofnm
 irstfederalbanknc
 chinocommercialbank
 patriotcb
-peoplescommunitybank
 cfsb
 fraternityfed
 fnbizardcounty
@@ -3500,13 +3397,11 @@ greenwoodsstatebank
 fnbtrenton
 foxfed
 bankoncornerstone
-alliancebank
 chattahoocheebank
 centralbanktrust
 cfbankco
 exchangestatebank
 apollotrust
-premierbanks
 victorycommunitybank
 bankwithcornerstone
 visionbanks
@@ -3568,7 +3463,6 @@ firstportcity
 llanonationalbank
 fnbhereford
 sunstatefl
-us
 fnbballinger
 bankofzumbrota
 fnbb
@@ -3671,7 +3565,6 @@ fmsb4me
 fmmarinette
 calumetbank
 statebanknorthwest
-bnymellon
 bankofgrove
 unitedfsb
 solerabank
@@ -3801,7 +3694,6 @@ thebankofthewest
 eclipsebank
 homelandcb
 bankkansas
-castlerockbank
 gateway-banking
 bankheb
 uscfsb
@@ -3839,7 +3731,6 @@ fsbankmctn
 irstnationalbankparkfalls
 midlandnb
 firststatebankforsyth
-first-bank
 minnstarbank
 ucbsky
 homebankofcalifornia
@@ -3861,7 +3752,6 @@ southcountybank
 thurstonfirstbank
 bankknb
 psbonline
-unitybanking
 csbfinley
 homebanktx
 winnsborobank
@@ -3929,7 +3819,6 @@ clarionbank
 bankoffranklin
 rhb24
 grantcostatebank
-citizenscommunitybank
 algonquinstatebank
 sabalpalmbank
 wandastatebank
@@ -3941,7 +3830,6 @@ fsbshelby
 delancofsb
 athensstatebank
 cfblv
-citizensbankandtrust
 bankofsunset
 rnbank
 csbanktx
@@ -4003,7 +3891,6 @@ mutualsavingsbank
 community-bank
 febala
 firstandcitizensbank
-foundationbank
 idabelnational
 bomwv
 guadalupenational
@@ -4019,7 +3906,6 @@ marfanb
 firstsoundbank
 friendlyhillsbank
 acsbank
-firstpeoplesbank
 fnbscott
 bank1stia
 valleystatebank
@@ -4055,7 +3941,6 @@ bankofgravett
 cnbccity
 isbff
 exchange-bank
-www
 pbonline
 collinsvillebuildingandloan
 settlersbank
@@ -4180,7 +4065,6 @@ templetonsavingsbank
 libertyfirst
 fnbnwfl
 riverbankonline
-stonebridgebank
 malvernbank
 pcbankonline
 thenbcbank
@@ -4227,7 +4111,6 @@ murphywall
 cgsb
 cbtbanking
 peoplefirstbank
-ww
 tpbtaylorsville
 bankofdawson
 farmbank
@@ -4244,11 +4127,9 @@ citizenshickman
 tiptonlathambank
 freedomnationalbank
 ctznsbank
-anbank
 vistabankonline
 americanbankofhuntsville
 ubtna
-americanbankandtrust
 hslc-kenton
 mymeb
 wcfbank
@@ -4335,7 +4216,6 @@ fidelitytopeka
 fnbnevada
 bankofcadiz
 fmsbonline
-merchantsandfarmers
 unitedcitizensbank
 stratfordbank
 wsbt
@@ -4385,7 +4265,6 @@ henrystatebank
 communitybankwi
 ipavastatebank
 cantoncoopbank
-thecornerstonebank
 ssbindee
 sbank
 merchantsandcitizensbank
@@ -4421,7 +4300,6 @@ heritagefirstbank
 sprattsavingsandloan
 plusintbank
 chasewoodbank
-ffmbank
 stonebank
 firstate
 fnbpratt
@@ -4445,7 +4323,6 @@ farmersstate-oh
 pocastbk
 stsb4u
 bankingwithcsb
-deltabank
 bankssb
 bankofeufaula
 frontiercommunitybank
@@ -4473,7 +4350,6 @@ fnbfst
 fsb-online
 fmbnd
 flagshipbanks
-upstatebank
 ourcpb
 richlandcountybank
 pcbbank
@@ -4492,11 +4368,9 @@ taylorsvillesavings
 istatesavingsbank
 fsb-iowa
 fcboz
-pioneersb
 centurysavings
 cnbcorinth
 nbbanking
-firstpeoplesbank
 granitecommunitybank
 gardnerbank
 reliancebankmn
@@ -4544,7 +4418,6 @@ tempobank
 independencenb
 fibaurora
 rgsla
-heritagebank
 blissfieldstate
 marionstatebanktx
 bankofnewmadrid
@@ -4605,7 +4478,6 @@ patriotsbank
 fcnbonline
 belmontfederal
 fmbankonline
-firstcentral
 bannerbanks
 stcsb
 communityfirstnj
@@ -4686,7 +4558,6 @@ litchfieldnationalbank
 grandbankfsb
 uasb
 gpsbank
-com
 exb-ok
 fbcdirect
 fsbhealy
@@ -4699,7 +4570,6 @@ philobank
 bankofoakfield
 csbankmn
 missionbankaz
-stearnsbank
 bankofcommercestilwell
 ppnb
 rochesterstatebank
@@ -4729,7 +4599,6 @@ bankwithpeoples
 mpbanktn
 idahotrust
 iroqbank
-ffmbank
 fsbshallowater
 csb-lamar
 southcoastbankandtrust
@@ -4764,7 +4633,6 @@ bank-star
 statebankofcherry
 rileystatebank
 fnblecenter
-villagebank
 fnbbeloit
 stclairstatebank
 cbbristow
@@ -4778,9 +4646,7 @@ newcarlislefederal
 piggottstatebank
 fnbchisholm
 fnbbankingcenters
-gostatebank
 mazonstatebank
-redriverbank
 1stadvantagebank
 fsbmobeetie
 farmersstatebanksd
@@ -4930,9 +4796,7 @@ citizensstatebanknya
 nabna
 stockgrowers
 amstatebankofalpha
-americaneaglebank
 texashillcountrybank
-unitybanking
 banksix
 firststatebankredwing
 fnbevant
@@ -4941,7 +4805,6 @@ bankofhalls
 bankofhartington
 gerberstatebank
 rimebankct
-stearnsbank
 financialsecuritybank
 pfsbank
 bankofstronghurst
@@ -4988,7 +4851,6 @@ fmbkendall
 1stfederalofsc
 citizensbankpagosa
 fowlerstate
-sbanking
 pvbonline
 communitybankga
 fnbofks
@@ -5012,7 +4874,6 @@ comdevbank
 fnbtb
 thepeoplesbank
 samsonbanking
-firstsecuritybanks
 fb-t
 communitybankwichita
 readlynsavingsbank
@@ -5029,7 +4890,6 @@ onlinewithtcb
 pbsb1863
 legacystatebank
 wawelbank
-firstnationalbanks
 cowboybank
 fsbsandiego
 citizensbankcochran
@@ -5122,7 +4982,6 @@ pioneerstatebank
 twsbank
 farmerstatebank
 lcfederal
-firstsecuritybanks
 iowapb
 bankofkeystone
 springvalleybank
@@ -5145,7 +5004,6 @@ fsbminnesota
 fortgibsonstatebank
 independencestatebank
 psbiowa
-fowlerstatebank
 communitystatebank-fl
 ss-bank
 fsbwarner
@@ -5156,14 +5014,12 @@ cbsm
 landmands
 csbmsl
 securitysbank
-bank-star
 bushnellbank
 wbalamo
 bankofprotection
 csbsa
 firstfedsavings
 ubjonline
-ssbonline
 fnbkemp
 miltonsavingsbank
 fbandtbank
@@ -5206,7 +5062,6 @@ highlandfederal
 irstcommercebankonline
 bankofyatescity
 coloradonational
-pebank
 americanmetrobank
 csbjc
 beauregardfsb
@@ -5259,13 +5114,11 @@ bankofbluffs
 producestatebank
 firstmemphis
 concordia-bank
-www
 burtonbank
 mynnb
 firstsullivan
 rcnbank
 armersstbank
-communitystatebank
 primesecurity
 nrsb
 citzexch
@@ -5291,7 +5144,6 @@ fsbbyron
 aebbank
 firstbanklake
 whittierbank
-ffmbank
 fsbwatonga
 fcblpsl
 firstcoloradobank
@@ -5320,7 +5172,6 @@ centralnationalbankismybank
 homenatlbank
 fnbblanchester
 cenbank
-citizensbank
 waltersbanktrust
 arlingtonstatebank
 bendenastatebank
@@ -5331,7 +5182,6 @@ ccombk
 luskstatebank
 freedombankmt
 fnbdighton
-om
 ankofcommerce
 sherwoodstatebank
 eoplesoa
@@ -5380,7 +5230,6 @@ peoplesowenton
 washingtonstatebank
 peoplesgambier
 basilebank
-riverbank
 hsbroyal
 bonduelbank
 cbowatonna
@@ -5405,7 +5254,6 @@ hustisfordstatebank
 libbk
 mbankarnett
 mayvillesavings
-hsbc
 bankpacificwest
 com1stbank
 communitybankavon
@@ -5466,7 +5314,6 @@ gnbonline
 orfordbank
 uarrycity
 farmersandtradersbank
-pinnaclebank
 elkstatebank
 equitybankmn
 fsbwashburn
@@ -5530,7 +5377,6 @@ murraystatebank
 nbpowhatan
 sbmn
 firstfinancialnd
-comerica
 statecentralbank
 gatewaybank
 merrillfederal
@@ -5628,7 +5474,6 @@ kawvalleystatebank
 tarborosavingsbank
 airmountstatebank
 ameriprise
-exchangestatebank
 northarundelsavingsbank
 shbmalmo
 knbkress
@@ -5710,7 +5555,6 @@ fsbabilene
 thepeoplesbank-ky
 independence-bank
 mansonbank
-mutualsavings
 frontiersb
 crowellstatebank
 nsbgonvick
@@ -5726,7 +5570,6 @@ utahcommunitybank
 statebankoflakepark
 ruthbank
 fnbdozier
-firststatebank
 linncsb
 citysb
 esbanks
@@ -5749,7 +5592,6 @@ valleybankglasgow
 grantcountystatebank
 kendallstatebank
 montestatebank
-heritagebank
 statebankofsaunemin
 efiancestatebank
 libertysavingsfsa
@@ -5786,7 +5628,6 @@ rockholdbank
 1stscuritydl
 cottonwoodvalleybank
 firstsecuritymalta
-gostatebank
 tatebankofhildreth
 fnbspearville
 grangernationalbank
@@ -5806,7 +5647,6 @@ battlecreekstatebank
 banknewcambria
 psb1922
 grapelandstatebank
-cbcbank
 banklg
 centerpointbank
 highlandstatebank
@@ -5840,7 +5680,6 @@ kindredstatebank
 razosbank
 irstfederalaberdeen
 peoplesbankusa
-fsbhoffman
 cheltenhills
 lccbank
 1ststatebankmc
@@ -5848,7 +5687,6 @@ countryfinancial
 riverside-bank
 maxwellstatebank
 franklingrovebank
-franklinstatebank
 fnbfx
 fsbabernathy
 fsbstpeter
