@@ -1,16 +1,10 @@
 {
-  "title": "My Jetpack Addon",
+  "title": "fftypo",
   "name": "fftypo",
   "version": "0.0.1",
-  "description": "A basic add-on",
-  "main": "index.js",
+  "description": "Looks for dangerous typos in web addresses.",
+  "id": "fftypo@liquidtungsten.us",
   "author": "Kurt",
-  "engines": {
-    "firefox": ">=38.0a1",
-    "fennec": ">=38.0a1"
-  },
-  "license": "MIT",
-  "keywords": [
-    "jetpack"
-  ]
+  "main": "./index.js",
+  "license": "MPL-2.0"
 }
