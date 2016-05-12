@@ -8,6 +8,9 @@
  * @param {function(string)} callback - called when the URL of the current tab
  *   is found.
  */
+var url;
+var blockNext = true; 
+
 function getCurrentTabUrl(callback) {
   // Query filter to be passed to chrome.tabs.query - see
   // https://developer.chrome.com/extensions/tabs#method-query
@@ -98,11 +101,11 @@ function checkUrl(url) {
   var array = [];
   var len = addr.length;
   for(var i = 0; i < len; i++){
-    var tmp = "^" + addr.slice(0,i) + addr.slice(i+1,len); // checks to see if this url has one more character than a real address
+    var tmp = "^" + addr.slice(0,i) + addr.slice(i+1,len) + "$"; // checks to see if this url has one more character than a real address
     array.push(tmp);
-    var regex1 = "^" + addr.slice(0,i) + "[^" + addr.charAt(i) + "]" + addr.slice(i+1,len);  // checks for characters that are swapped with other characters
+    var regex1 = "^" + addr.slice(0,i) + "[^" + addr.charAt(i) + "]" + addr.slice(i+1,len) + "$";  // checks for characters that are swapped with other characters
     array.push(regex1);
-    var regex2 = "^" + addr.slice(0,i) + "." + addr.slice(i,len); // checks to see if this url has less characters than the a real address
+    var regex2 = "^" + addr.slice(0,i) + "." + addr.slice(i,len) + "$"; // checks to see if this url has less characters than the a real address
     array.push(regex2);
 
   }
@@ -115,7 +118,7 @@ function extractAddr(url) { // goes from "https://www.google.com" to "google"
   idx = tmp.indexOf(".");
   tmp = tmp.slice(0,idx);
 
-  tmp = "googleuserconten";
+  // tmp = "googleuserconten";
 
   return tmp;
 }
@@ -148,19 +151,31 @@ function cmpWithList(array) {
         }
         if(found) break;
       }
-      renderStatus("Did you mean " + match + "?");
+      if(found) renderStatus("Did you mean " + match + "?");
+      else renderStatus("no typosquatting detected");
     }
   };
   xhr.send();
 
 }
 
+chrome.webRequest.onBeforeRequest.addListener(
+  function(details) {
+    currentUrl = details.url;
 
+    if(window.confirm(currentUrl)) {
+      return {cancel: false};
+    }
+    else return {cancel: details.url.indexOf("://www.evil.com/") != -1};
+  },
+  { urls: ["<all_urls>"] },
+  ["blocking"]
+);
 
 document.addEventListener('DOMContentLoaded', function() {
   getCurrentTabUrl(function(url) {
 
-    checkUrl(url);
+    // checkUrl(url);
 
 
     // renderStatus('url is ' + url);
