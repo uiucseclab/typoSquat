@@ -3,4 +3,4 @@ This set of extensions helps to prevent the user from accidentily traveling to m
 
 The firefox extension is installed from the about:addons page. From the gear menu, select install addon from file and designate the "fftypo-0.0.1-fx.xpi" file under the fftypo folder.
 
-The chrome extension can be installed by adding the typoSquatterDetector folder as an unpacked extension under developer mode.
+The chrome extension can be installed by adding the typoSquatterDetector folder as an unpacked extension under developer mode, or it can be installed here: https://chrome.google.com/webstore/detail/typosquat-protector/bekiojhdplieggfeakmihdbhbpnnjifn
