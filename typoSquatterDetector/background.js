@@ -28,6 +28,10 @@ function extractAddr(url) { // goes from "https://www.google.com" to "google"
   var idx = url.indexOf("www.");
   var tmp = url;
   if(idx != -1) tmp = url.slice(idx + 4);
+  idx = tmp.indexOf("https:"); // https://
+  if(idx != -1) tmp = tmp.slice(idx + 8);
+  idx = tmp.indexOf("http:");
+  if(idx != -1) tmp = tmp.slice(idx + 7);
   idx = tmp.indexOf(".");
   tmp = tmp.slice(0,idx);
   return tmp;
