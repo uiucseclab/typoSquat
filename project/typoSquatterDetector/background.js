@@ -2,11 +2,11 @@
 var url;
 var blockNext = true; 
 var list = [];
+var whiteList = [];
 
 
 
 function checkUrl(addr) {
-  // var addr = extractAddr(url);
   var array = [];
   var len = addr.length;
   var i;
@@ -17,16 +17,10 @@ function checkUrl(addr) {
     array.push(regex1);
     var regex2 = "^" + addr.slice(0,i) + "\." + addr.slice(i,len) + "$"; // checks to see if this url has less characters than the a real address
     array.push(regex2);
-    if(addr == "youtube"){
-      // alert(regex2);
-      var regtmp = new RegExp(regex2);
-      // alert(regtmp.test("yourtube"));
-    }
 
   }
   var regex3 = "^" + addr.slice(0,i) + "\." + "$";
   array.push(regex3);
-  // if(addr == "youtube") alert(array.length);
   return cmpWithList(array);
 }
 
@@ -36,25 +30,14 @@ function extractAddr(url) { // goes from "https://www.google.com" to "google"
   if(idx != -1) tmp = url.slice(idx + 4);
   idx = tmp.indexOf(".");
   tmp = tmp.slice(0,idx);
-
-  // tmp = "googleuserconten";
-  // if(url.indexOf("youtube") != -1) confirm(tmp);
   return tmp;
 }
 
 function cmpWithList(array) {
-  // var regex = new RegExp(addr);
-    // var regexArray = [];
-    // for(var i = 0; i < array.length; i++){
-    //   var regex = new RegExp(array[i]);
-    //   regexArray.push(regex);
-    // }
     var found = false;
     var match = "";
-    // return "blah";
     if(list.length == 0) return "empty list";
     for(var j = 0; j < list.length; j++){
-      // if(j==5856) alert(list[j] + list[j].length);
       for(var i = 0; i < array.length; i++){
         var regex = new RegExp(array[i]);
         if(regex.test(list[j].trim())){
@@ -70,29 +53,13 @@ function cmpWithList(array) {
 }
 
 function checkWhiteList(url) {
+  for(var i = 0; i < whiteList.length; i++){
+    if(whiteList[i] == url) return true;
+  }
   for(var i = 0; i < list.length; i++){
     if(list[i] == url) return true;
   }
   return false;
-}
-
-function writeToList(url){
-//   var fReader = XMLHttpRequest();
-// //var params = "MODE=GET&File=Data.txt";//To read
-//   var params = "MODE=POST&File=list.txt&Message=" + url;//To write
-
-//   fReader.onreadystatechange=function() {
-//       if(fReader.readyState==4 && fReader.status==200) {
-//           //Not really any response text if writing...
-//           // parseText(JSON.parse(fReader.responseText).GET);
-//       }
-//   }
-
-//   fReader.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-//   fReader.setRequestHeader("Content-length", params.length);
-//   fReader.setRequestHeader("Connection", "close");
-
-//   fReader.send(params);
 }
 
 
@@ -113,15 +80,13 @@ chrome.webRequest.onBeforeRequest.addListener(
     var fullUrl = details.url;
     var currentUrl = extractAddr(fullUrl);
     if(checkWhiteList(currentUrl)){
-      writeToList(currentUrl);
       return {cancel: false};
     }
-    // if(fullUrl.indexOf("youtube") != -1) confirm(currentUrl + "\n" + fullUrl);
     var match = checkUrl(currentUrl);
     var msg = "";
     if(match == "empty list") message = "Proceed?";
     if(match == "") {
-      list.push(currentUrl);
+      whiteList.push(currentUrl);
       return {cancel: false};
     }
     message = "You were about to go to " + currentUrl + "\nIf you meant " + match + " then click CANCEL and then type it correctly";
